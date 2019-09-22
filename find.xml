@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\libs\eclipselink.jar [mco152a]'" />
-    <option name="defaultScopeName" value="File '...\libs\eclipselink.jar [mco152a]'" />
-    <option name="SEARCH_SCOPE" value="File '...\libs\eclipselink.jar [mco152a]'" />
+    <option name="customScope" value="Project 'mco152a'" />
+    <option name="defaultScopeName" value="Project 'mco152a'" />
+    <option name="SEARCH_SCOPE" value="Project 'mco152a'" />
   </component>
 </application>
